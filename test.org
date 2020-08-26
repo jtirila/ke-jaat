@@ -1,3 +1,0 @@
-* Kokeillaan org-modea
-
-Renderöityykö tämä GH Pagesiin?
