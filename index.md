@@ -13,8 +13,8 @@ tyttökiekkoharjoituksista ja muista asiaan liittyvistä ajankohtaisuuksista.
 
 Syksystä 2020 lähtien Linnanmaalla on järjestetty koko alueen
 tyttökiekkoilijoille suunnattuja yhteisharjoituksia keskiviikkoisin kello
-19-20. Ryhmää ovat ainakin toistaiseksi ohjanneet Kärppien ja KKP:n
-valmentajat. Jää on Kärppien järjestämä. Jäiden kohderyhmää ovat jo
+19-20. Ryhmää ohjaavat alueen tyttökiekkoryhmien valmentajat.
+Jää on Kärppien järjestämä. Jäiden kohderyhmää ovat jo
 seuratoiminnassa mukana olevat luistelutaitoiset kouluikäiset pelaajat.
 
 Alueen seuroissa toimii kaksi tyttökiekkoryhmää:
