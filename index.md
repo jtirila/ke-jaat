@@ -5,7 +5,8 @@ tyttökiekkoharjoituksista ja muista asiaan liittyvistä ajankohtaisuuksista.
  * Keskiviikon 28.10. jää peruttu, korvaava vuoro torstaina 29.10. kello 17.45
    Linnanmaa 1:ssa.
  * Muita peruutuksia ei toistaiseksi tiedossa eli 4.11. eteenpäin jatketaan
-   keskiviikkoisin.
+   keskiviikkoisin. Kärppien ryhmä on 4.11. pääosin Leijonaliiga-pelissä, joten
+   harjoituksiin osallistuva ryhmä on normaalia pienempi.
  * Joulukuun viimeiset jäät pidetään 16.12. - tämän jälkeen jäämme joulutauolle.
    Jatko joulun jälkeen päätetään myöhemmin.
 
