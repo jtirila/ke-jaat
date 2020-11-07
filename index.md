@@ -1,12 +1,13 @@
 Päivitämme tälle sivulle oleellisimpia tietoja Oulun alueen yhteisistä
 tyttökiekkoharjoituksista ja muista asiaan liittyvistä ajankohtaisuuksista.
 
-## Lähiaikojen suunnitelmat
- * Keskiviikon 28.10. jää peruttu, korvaava vuoro torstaina 29.10. kello 17.45
-   Linnanmaa 1:ssa.
- * Muita peruutuksia ei toistaiseksi tiedossa eli 4.11. eteenpäin jatketaan
-   keskiviikkoisin. Kärppien ryhmä on 4.11. pääosin Leijonaliiga-pelissä, joten
-   harjoituksiin osallistuva ryhmä on normaalia pienempi.
+## Lähiaikojen suunnitelmat (päivitetty 7.11.2020)
+ * Marraskuussa ei tiedossa peruutuksia; näillä näkymin harjoitellaan joka viikko
+   normaalisti.
+ * Joulukuussa on näillä näkymin yksi peruutus: 9.12. vuorolla on
+   Kärppien U13-poikien peli.
+   * Jos muuta korvaavaa vuoroa ei löydetä, treenit siirretään tuolloin
+     Raksilan tekojääkentälle, alkaen klo 18.
  * Joulukuun viimeiset jäät pidetään 16.12. - tämän jälkeen jäämme joulutauolle.
    Jatko joulun jälkeen päätetään myöhemmin.
 
