@@ -4,7 +4,7 @@ tyttökiekkoharjoituksist.
 ## Lähiaikojen suunnitelmat (päivitetty 11.11.2020)
  * Marraskuussa ei tiedossa peruutuksia; näillä näkymin harjoitellaan joka viikko
    normaalisti.
- * 11.11. treenit kuitenkin poikkeusaikaan, jo 17.45
+ * 11.11. treenit kuitenkin poikkeusaikaan, jo 17.45.
  * Joulukuussa on näillä näkymin yksi peruutus: 9.12. vuorolla on
    Kärppien U13-poikien peli.
    * Jos muuta korvaavaa vuoroa ei löydetä, treenit siirretään tuolloin
