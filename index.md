@@ -27,7 +27,7 @@ Alueen seuroissa toimii kaksi tyttökiekkoryhmää:
 
 Pääosa keskiviikkovuoron pelaajista on näistä kahdesta ryhmästä, mutta kaikki
 muutkin ovat tervetulleita! Pelaajia onkin ollut Kärppien ja KKP:n lisäksi ainakin
-MuJK:sta ja Laserista.
+MuJK:sta, Ahmoista ja Laserista.
 
 Yhteystiedot:
  * 044 573 9722 (J-M Tirilä)
