@@ -1,5 +1,5 @@
 Päivitämme tälle sivulle oleellisimpia tietoja Oulun alueen yhteisistä
-tyttökiekkoharjoituksist.
+tyttökiekkoharjoituksista.
 
 ## Lähiaikojen suunnitelmat (päivitetty 11.11.2020)
  * Marraskuussa ei tiedossa peruutuksia; näillä näkymin harjoitellaan joka viikko
