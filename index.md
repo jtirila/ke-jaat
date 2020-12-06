@@ -1,15 +1,10 @@
 Päivitämme tälle sivulle oleellisimpia tietoja Oulun alueen yhteisistä
 tyttökiekkoharjoituksista.
 
-## Lähiaikojen suunnitelmat (päivitetty 19.11.2020)
+## Lähiaikojen suunnitelmat (päivitetty 6.12.2020)
+ * Ainakin jouluun asti jäät on nyt peruttu koronakieltojen takia.
  * 25.11. treenit jo kello 17.45
  * 11.11. treenit jo kello 17.45.
- * Joulukuussa on näillä näkymin yksi peruutus: 9.12. vuorolla on
-   Kärppien U13-poikien peli.
-   * Jos muuta korvaavaa vuoroa ei löydetä, treenit siirretään tuolloin
-     Raksilan tekojääkentälle, alkaen klo 18.
- * Joulukuun viimeiset jäät pidetään 16.12. - tämän jälkeen jäämme joulutauolle.
-   Jatko joulun jälkeen päätetään myöhemmin.
 
 ## Taustatietoja
 
