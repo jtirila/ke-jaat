@@ -1,10 +1,8 @@
 Päivitämme tälle sivulle oleellisimpia tietoja Oulun alueen yhteisistä
 tyttökiekkoharjoituksista.
 
-## Lähiaikojen suunnitelmat (päivitetty 6.12.2020)
- * Ainakin jouluun asti jäät on nyt peruttu koronakieltojen takia.
- * 25.11. treenit jo kello 17.45
- * 11.11. treenit jo kello 17.45.
+## Lähiaikojen suunnitelmat (päivitetty 21.12.2020)
+* Tällä tietoa seuraavat jäät keskiviikkona 20.1.2021 - siihen asti toiminta tauolla koronakieltojen takia
 
 ## Taustatietoja
 
