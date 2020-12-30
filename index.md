@@ -21,5 +21,6 @@ Pääosa keskiviikkovuoron pelaajista on näistä kahdesta ryhmästä, mutta kai
 muutkin ovat tervetulleita! Pelaajia onkin ollut Kärppien ja KKP:n lisäksi ainakin
 MuJK:sta, Ahmoista ja Laserista.
 
-Yhteystiedot:
+## Yhteystiedot:
  * 044 573 9722 (J-M Tirilä)
+ * Palaute / kommentit: https://forms.gle/FdxWP3AaG7aNgXdj7
