@@ -1,7 +1,7 @@
 Päivitämme tälle sivulle oleellisimpia tietoja Oulun alueen yhteisistä
 tyttökiekkoharjoituksista.
 
-## Lähiaikojen suunnitelmat (päivitetty 21.12.2020)
+## Lähiaikojen suunnitelmat (päivitetty 30.12.2020)
 * Tällä tietoa seuraavat jäät keskiviikkona 20.1.2021 - siihen asti toiminta tauolla koronakieltojen takia
 
 ## Taustatietoja
@@ -23,4 +23,4 @@ MuJK:sta, Ahmoista ja Laserista.
 
 ## Yhteystiedot:
  * 044 573 9722 (J-M Tirilä)
- * Palaute / kommentit: https://forms.gle/FdxWP3AaG7aNgXdj7
+ * [Yhteydenottolomake](https://forms.gle/FdxWP3AaG7aNgXdj7) Palauteta / kommentteja varten
