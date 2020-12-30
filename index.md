@@ -23,4 +23,4 @@ MuJK:sta, Ahmoista ja Laserista.
 
 ## Yhteystiedot:
  * 044 573 9722 (J-M Tirilä)
- * [Yhteydenottolomake](https://forms.gle/FdxWP3AaG7aNgXdj7) Palauteta / kommentteja varten
+ * [Yhteydenottolomake](https://forms.gle/FdxWP3AaG7aNgXdj7) palautetta / kommentteja varten
