@@ -22,7 +22,7 @@ Alueen seuroissa toimii kaksi tyttökiekkoryhmää:
 * [Kärppien Pikku Saijat](https://www.oulunkarpat46.fi/uutiset/7411/kiekkokoulu) (etsi sivulta "Pikku Saijat")
 
 Pääosa keskiviikkovuoron pelaajista on näistä kahdesta ryhmästä, mutta kaikki
-muutkin ovat tervetulleita! Pelaajia onkin ollut Kärppien ja KKP:n lisäksi ainakin
+muutkin ovat tervetulleita! Pelaajia onkin ollut lisäksi ainakin
 MuJK:sta, Ahmoista ja Laserista.
 
 ## Yhteystiedot:
