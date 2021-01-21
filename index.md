@@ -1,8 +1,13 @@
 Päivitämme tälle sivulle oleellisimpia tietoja Oulun alueen yhteisistä
 tyttökiekkoharjoituksista.
 
-## Lähiaikojen suunnitelmat (päivitetty 13.1.2021)
-* Tällä tietoa seuraavat jäät keskiviikkona 3.2.2021 - siihen asti toiminta tauolla koronakieltojen takia. Tilanteen muuttuessa uudet tiedot päivitetään tälle sivulle.
+## Lähiaikojen suunnitelmat (päivitetty 21.1.2021)
+* Tällä tietoa palaamme koronatauolta keskiviikkona 27.1.2021, ja
+  siitä eteenpäin jatkamme toimintaa normaalisti keskiviikkoisin klo
+  19-20. Poikkeuksia ei tällä hetkellä ole tiedossa.
+  * Vuorolla noudatettavat turvaohjeistukset eivät ole vielä
+    tiedossa. Mahdollisesti joudumme rajoittamaan
+    osallistujamäärää. Tästä tietoa heti kun asia selviää.
 
 ## Taustatietoja
 
