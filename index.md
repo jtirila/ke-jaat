@@ -1,13 +1,8 @@
 Päivitämme tälle sivulle oleellisimpia tietoja Oulun alueen yhteisistä
 tyttökiekkoharjoituksista.
 
-## Lähiaikojen suunnitelmat (päivitetty 21.1.2021)
-* Tällä tietoa palaamme koronatauolta keskiviikkona 27.1.2021, ja
-  siitä eteenpäin jatkamme toimintaa normaalisti keskiviikkoisin klo
-  19-20. Poikkeuksia ei tällä hetkellä ole tiedossa.
-  * Vuorolla noudatettavat turvaohjeistukset eivät ole vielä
-    tiedossa. Mahdollisesti joudumme rajoittamaan
-    osallistujamäärää. Tästä tietoa heti kun asia selviää.
+## Lähiaikojen suunnitelmat (päivitetty 25.1.2021)
+* Kärppien päätöksen mukaisesti tyttöjen yhteisharjoitukset on koronatilanteen vuoksi toistaiseksi peruttu kokonaan.
 
 ## Taustatietoja
 
