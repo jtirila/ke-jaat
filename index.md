@@ -1,8 +1,8 @@
 Päivitämme tälle sivulle oleellisimpia tietoja Oulun alueen yhteisistä
 tyttökiekkoharjoituksista.
 
-## Lähiaikojen suunnitelmat (päivitetty 25.1.2021)
-* Kärppien päätöksen mukaisesti tyttöjen yhteisharjoitukset on koronatilanteen vuoksi toistaiseksi peruttu kokonaan.
+## Lähiaikojen suunnitelmat (päivitetty 31.1.2021)
+* Jäät jatkuvat 3.2.2021. Kaikkien alueen seurojen tyttöpelaajat ovat tervetulleita.
 
 ## Taustatietoja
 
