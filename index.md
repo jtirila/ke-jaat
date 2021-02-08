@@ -3,6 +3,9 @@ tyttökiekkoharjoituksista.
 
 ## Lähiaikojen suunnitelmat (päivitetty 31.1.2021)
 * Jäät jatkuvat 3.2.2021. Kaikkien alueen seurojen tyttöpelaajat ovat tervetulleita.
+  * Ohjeistus: tule halliin täysissä varusteissa klo 18.45, sisään ykköskaukalon
+    katsomoon ja sieltä sitten valmentajien ja huoltajien ohjeiden mukaan jäälle
+  * Poikkeus: 24.2. vuoro on peruttu
 
 ## Taustatietoja
 
