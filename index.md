@@ -1,11 +1,12 @@
 Päivitämme tälle sivulle oleellisimpia tietoja Oulun alueen yhteisistä
 tyttökiekkoharjoituksista.
 
-## Lähiaikojen suunnitelmat (päivitetty 31.1.2021)
+## Lähiaikojen suunnitelmat (päivitetty 19.2.2021)
 * Jäät jatkuvat 3.2.2021. Kaikkien alueen seurojen tyttöpelaajat ovat tervetulleita.
   * Ohjeistus: tule halliin täysissä varusteissa klo 18.45, sisään ykköskaukalon
-    katsomoon ja sieltä sitten valmentajien ja huoltajien ohjeiden mukaan jäälle
-  * Poikkeus: 24.2. vuoro on peruttu
+    katsomoon ja sieltä sitten valmentajien ja huoltajien ohjeiden mukaan jäälle.
+    Poistuminen varusteet päällä sivuovesta, toimihenkilöt ohjeistavat.
+  * *Poikkeus:* 24.2. vuoro on peruttu
 
 ## Taustatietoja
 
