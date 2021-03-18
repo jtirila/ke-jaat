@@ -28,7 +28,7 @@ Alueen seuroissa toimii kaksi tyttökiekkoryhmää:
 
 Pääosa keskiviikkovuoron pelaajista on näistä kahdesta ryhmästä, mutta kaikki
 muutkin ovat tervetulleita! Pelaajia onkin ollut lisäksi ainakin
-MuJK:sta, Ahmoista ja Laserista.
+MuJK:sta, Ahmoista, Laserista ja Kärppien EasyHockey-ryhmistä.
 
 ## Yhteystiedot:
  * 044 573 9722 (J-M Tirilä)
