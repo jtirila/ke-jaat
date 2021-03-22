@@ -8,8 +8,6 @@ tyttökiekkoharjoituksista.
   * Ohjeistus: tule halliin täysissä varusteissa klo 18.45, sisään ykköskaukalon
     katsomoon ja sieltä sitten valmentajien ja huoltajien ohjeiden mukaan jäälle.
     Poistuminen varusteet päällä sivuovesta, toimihenkilöt ohjeistavat.
-  * Jäiden jatko on varmistettu tällä haavaa ainakin 7.4. asti.
-
 
 ## Taustatietoja
 
