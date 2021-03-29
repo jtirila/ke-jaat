@@ -1,7 +1,7 @@
 Päivitämme tälle sivulle oleellisimpia tietoja Oulun alueen yhteisistä
 tyttökiekkoharjoituksista.
 
-## Lähiaikojen suunnitelmat (päivitetty 25.3.2021)
+## Lähiaikojen suunnitelmat (päivitetty 29.3.2021)
 * Jäät jatkuvat näillä näkymin toukokuun loppuun. Kaikkien alueen seurojen tyttöpelaajat
   ovat tervetulleita.
   * Poikkeuskerta: 7.4. vuoro on peruttu.
