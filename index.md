@@ -1,10 +1,11 @@
 Päivitämme tälle sivulle oleellisimpia tietoja Oulun alueen yhteisistä
 tyttökiekkoharjoituksista.
 
-## Lähiaikojen suunnitelmat (päivitetty 31.3.2021)
+## Lähiaikojen suunnitelmat (päivitetty 1.4.2021)
 * Jäät jatkuvat näillä näkymin toukokuun loppuun. Kaikkien alueen seurojen tyttöpelaajat
   ovat tervetulleita.
-  * Poikkeuskerta: 7.4. vuoro on peruttu.
+  * Poikkeuskerta: 7.4. vuoro on peruttu. *Sen sijaan* kokoonnumme
+    poikkeuksellisesti pe 9.4. klo 18.55 - 19.45 Raksilan harjoitushallissa.
   * Ohjeistus: tule halliin täysissä varusteissa klo 18.45, sisään ykköskaukalon
     katsomoon ja sieltä sitten valmentajien ja huoltajien ohjeiden mukaan jäälle.
     Poistuminen varusteet päällä sivuovesta, toimihenkilöt ohjeistavat.
