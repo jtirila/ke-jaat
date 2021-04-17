@@ -4,7 +4,7 @@ tyttökiekkoharjoituksista.
 ## Lähiaikojen suunnitelmat (päivitetty 17.4.2021)
 * Jäät loppuvat *huhti*kuun loppuun. Kaikkien alueen seurojen tyttöpelaajat
   ovat tervetulleita.
-  * 21. ja 28.4. ovat pelikertoja. Ryhmän vanhimmat pelaajat ovat tuolloin muualla
+  * 21.4. ja 28.4. ovat pelikertoja. Ryhmän vanhimmat pelaajat ovat tuolloin muualla
     pelihomissa, joten nämä kaksi viimeistä kertaa vähän maltillisempaa menoa.
   * Ohjeistus: tule hallin ovelle täysissä varusteissa varttia ennen jään alkua.
     Toimihenkilöt noutavat pelaajat ovella ja ohjeistavat eteenpäin.
